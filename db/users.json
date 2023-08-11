@@ -1,0 +1,36 @@
+[
+     {
+          "id": 1,
+          "isAdmin": true,
+          "username": "Jon_Doe",
+          "password": "$2b$05$NO4vq2U3TmbPcxMjY/oGw.gzclQn3dkMz6W5J2IezSszigO.mr6RO"
+     },
+     {
+          "id": 2,
+          "isAdmin": false,
+          "money": 40000,
+          "username": "pika_chu",
+          "password": "$2b$05$0NEkEeON1knRuHsQLCfFEuucMmWYR77k7SHlMkWbXwcIhY9vPYrjC"
+     },
+     {
+          "id": 3,
+          "isAdmin": false,
+          "money": 298000,
+          "username": "js_dev",
+          "password": "$2b$05$BbmZF7lO4FSR6KAGMkzeF.1HowsOvUN3ZcwiY9adkK4ToBWj4qZ0q"
+     },
+     {
+          "id": 4,
+          "isAdmin": false,
+          "money": 8412888,
+          "username": "StefanBobr",
+          "password": "$2b$05$JqQnzloR4ng5lL02A7Cyy.6rlGwF4MkXngerQD5xqr8USAJmCGsNS"
+     },
+     {
+          "id": 5,
+          "isAdmin": false,
+          "money": 39972000,
+          "username": "user9771",
+          "password": "$2b$05$Wj9W81TeGraIzHl6FKZR0OjqM/OI4uPUAkmUwYT4DcRICq/ucBVFG"
+     }
+]
